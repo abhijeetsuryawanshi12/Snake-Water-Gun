@@ -1,4 +1,4 @@
-#Snake Water gun game
+#Snake water gun game
 
 print("Welcome to the Snake, Water and Gun GAME")
 print("You have 10 chances and the majority times winner will win this GAME")
